@@ -7,4 +7,3 @@ I am utlizing this as a creative, educational space for one of my courses this s
 [Lehigh University Brown and White](https://thebrownandwhite.com/)
 [Lehigh Track & Field](https://lehighsports.com/sports/womens-track-and-field/roster/gianna-mangili/18507)
 
-![headshot](https://github.com/user-attachments/assets/73e52bb9-686b-4cc2-96ff-89d5add2fc0a)
