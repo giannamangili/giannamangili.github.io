@@ -22,6 +22,8 @@ I am utilizing this as a creative, educational space for one of my courses this 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1sg00mTPoSVwt8u5UbcIldwRQqmd4cb0&ehbc=2E312F" width="640" height="480"></iframe>
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1jxkSZaM4ndXWB9U2kp_nDzA0Ci-LvHE&ehbc=2E312F" width="640" height="480"></iframe>
 
+![Mental Health in the Lehigh Valley](./MentalHealthLehighValley.png)
+
 <a href="https://lumentalhealthstudentathletes.my.canva.site/mental-health-for-student-athletes-vs-non-athletes-website#home" target="_blank">
   Visit My Website on Mental Health for Student-Athletes
 </a>
